@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá. Hola. Hello. Bonjour. Konnichiwa! 👋
+
+- 🔭 There's not much to see here for now...
+- 🌱 I’m currently learning: HTML | CSS | Javascript | Node.js | PHP | Git | Wordpress...
 
 <!--
 **RafaelSaga/RafaelSaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
